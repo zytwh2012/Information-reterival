@@ -1,0 +1,7 @@
+Error
+Error(please try one of ways to run program): 
+
+	1.$ make all
+	  $ ./vs_query.py path k score term1 term2 ...
+
+	2.$ python3 vs_query.py path k score term1 term2 ...
